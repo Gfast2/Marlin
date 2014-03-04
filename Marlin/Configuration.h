@@ -39,7 +39,7 @@
 // 2  = Cheaptronic v1.0
 // 20 = Sethi 3D_1
 // 3  = MEGA/RAMPS up to 1.2 = 3
-// 33 = RAMPS 1.3 / 1.4 (Power outputs: Extruder, Fan, Bed)
+// 33 = RAMPS 1.3 / 1.4 (Power outputs: Extruder, Fan, Bed) //beside power in jack is three high current power output
 // 34 = RAMPS 1.3 / 1.4 (Power outputs: Extruder0, Extruder1, Bed)
 // 35 = RAMPS 1.3 / 1.4 (Power outputs: Extruder, Fan, Fan)
 // 4  = Duemilanove w/ ATMega328P pin assignment
