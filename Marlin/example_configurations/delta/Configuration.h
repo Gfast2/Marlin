@@ -122,6 +122,7 @@
 // Effective horizontal distance bridged by diagonal push rods.
 #define DELTA_RADIUS (DELTA_SMOOTH_ROD_OFFSET-DELTA_EFFECTOR_OFFSET-DELTA_CARRIAGE_OFFSET)
 
+// sq() multiplies a number by itself
 #define DELTA_DIAGONAL_ROD_2 sq(DELTA_DIAGONAL_ROD)
 
 // Effective X/Y positions of the three vertical towers.
