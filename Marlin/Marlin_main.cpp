@@ -70,8 +70,8 @@
 //-------------------
 // G0  -> G1
 // G1  - Coordinated Movement X Y Z E
-// G2  - CW ARC
-// G3  - CCW ARC
+// G2  - CW ARC (clockwise arc)
+// G3  - CCW ARC (counter clockwise arc)
 // G4  - Dwell S<seconds> or P<milliseconds>
 // G10 - retract filament according to settings of M207
 // G11 - retract recover filament according to settings of M208
@@ -3500,4 +3500,5 @@ bool setTargetedHotend(int code){
   }
   return false;
 }
+
 
