@@ -86,7 +86,7 @@
 // 1 = ATX
 // 2 = X-Box 360 203Watts (the blue wire connected to PS_ON and the red wire to VCC)
 
-#define POWER_SUPPLY 1
+#define POWER_SUPPLY 2
 
 // Define this to have the electronics keep the powersupply off on startup. If you don't know what this is leave it.
 // #define PS_DEFAULT_OFF
